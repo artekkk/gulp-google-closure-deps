@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/google/gulp-google-closure-deps#readme",
   "dependencies": {
-    "google-closure-deps": "^20180910.1.0",
+    "google-closure-deps": "^20200224.0.0",
     "plugin-error": "^1.0.1",
     "through2": "^2.0.3",
     "vinyl": "^2.2.0"
